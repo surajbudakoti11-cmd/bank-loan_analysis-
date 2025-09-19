@@ -35,7 +35,7 @@ The dashboard helps banks and financial institutions:
 ---
 
 ## 📂 Data Source  
-- **Dataset:** https://github.com/surajbudakoti11-cmd/bank-loan_analysis-/blob/main/financial_loan.csv
+- **Dataset:** https://github.com/surajbudakoti11-cmd/bank-loan_analysis-/blob/main/financial_loan_data_excel.xlsx
 - **Fields:** Loan ID, Customer ID, Loan Amount, Issue Date, Loan Status, Interest Rate, Installments, Purpose, Home Ownership  
 
 ---
