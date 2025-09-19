@@ -71,7 +71,10 @@ Deliver an **interactive, visual report** with KPIs, trends, and risk insights.
 
 | Summary | Details | Overview |  
 |---------|---------|----------|  
-| ![Summary](./summary.png) | ![Details](./details.png) | ![Overview](./overview.png) |  
+| ![Summary](https://github.com/surajbudakoti11-cmd/bank-loan_analysis-/blob/main/SUMMARY.png) |
+![Overview](https://github.com/surajbudakoti11-cmd/bank-loan_analysis-/blob/main/OVERVIEW.png) |  
+![Details](https://github.com/surajbudakoti11-cmd/bank-loan_analysis-/blob/main/DETAILS.png) |
+
 
 </div>  
 
