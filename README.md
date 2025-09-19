@@ -1,78 +1,85 @@
-🏦 Bank Loan Analysis Dashboard
+<div align="center">  
 
-An interactive Power BI dashboard to analyze loan applications, funded amounts, repayments, defaults, and interest rates.
-It provides insights for financial analysts, banking professionals, and decision-makers to track trends, risks, and opportunities.
+# 🏦 Bank Loan Analysis Dashboard  
 
-📌 Purpose
+📊 *Interactive Power BI Dashboard for Loan Performance & Risk Analysis*  
 
-Track loan performance (applications, funded amount, repayments, defaults).
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow) 
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue) 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-green) 
+![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-brightgreen)  
 
-Monitor interest rate patterns and borrower behavior.
+</div>  
 
-Identify risks by analyzing good loans vs bad loans.
+---
 
-Support decision-making with interactive visuals.
+## 🎯 Purpose  
+The dashboard helps banks and financial institutions:  
+✔️ Track **loan applications, funded amounts, repayments, and defaults**  
+✔️ Monitor **interest rate trends & borrower behavior**  
+✔️ Identify **good vs bad loans** for risk management  
+✔️ Support **data-driven lending decisions**  
 
-🛠️ Tech Stack
+---
 
-Power BI Desktop – Main visualization tool
+## 🛠️ Tech Stack  
 
-Power Query – Data transformation and cleaning
+| Tool | Purpose |  
+|------|---------|  
+| **Power BI** | Dashboard creation & visualization |  
+| **Power Query** | Data transformation & cleaning |  
+| **DAX** | Custom measures & KPIs |  
+| **MySQL** | Data querying & analysis |  
+| **Excel / Jupyter** | Data exploration & validation |  
 
-DAX – Custom measures and calculations
+---
 
-MySQL – Data extraction and queries
+## 📂 Data Source  
+- **Dataset:** Dummy financial loan dataset  
+- **Fields:** Loan ID, Customer ID, Loan Amount, Issue Date, Loan Status, Interest Rate, Installments, Purpose, Home Ownership  
 
-Excel & Jupyter Notebook – Data exploration and validation
+---
 
-📂 Data Source
+## 🌟 Features & Highlights  
 
-Dataset: Dummy financial loan dataset
+🔹 **Business Problem**  
+Banks struggle to monitor loan performance & defaults efficiently.  
 
-Key Fields: Loan ID, Customer ID, Loan Amount, Issue Date, Loan Status, Interest Rate, Installments, Purpose, Home Ownership
+🔹 **Dashboard Goal**  
+Deliver an **interactive, visual report** with KPIs, trends, and risk insights.  
 
-🌟 Features & Highlights
+🔹 **Key Visuals**  
+- KPIs: Applications (38.6K), Funded ($435.8M), Repaid ($473.1M), Avg. Interest (12–13%)  
+- Good vs Bad Loans: 86% good vs 14% bad  
+- Loan Status: Current, Fully Paid, Charged Off  
+- Trends: By Month, Term, Purpose, Employment, Home Ownership  
 
-Business Problem
-Banks struggle to monitor loan applications, repayments, and defaults efficiently.
+🔹 **Insights**  
+📈 Seasonal loan trends discovered  
+🛑 Risky loan categories highlighted  
+💰 Profitability tracking (funded vs repaid)  
+🎯 Actionable focus on loan quality  
 
-Dashboard Goal
-Deliver an interactive report that summarizes KPIs, tracks performance, highlights risks, and supports data-driven decisions.
+---
 
-Key Visuals
+## 📸 Dashboard Previews  
 
-KPIs (Top Panel): Applications (38.6K), Funded ($435.8M), Repaid ($473.1M), Avg. Interest (12–13%).
+<div align="center">  
 
-Good vs Bad Loans: 86% good vs 14% bad.
+| Summary | Details | Overview |  
+|---------|---------|----------|  
+| ![Summary](./summary.png) | ![Details](./details.png) | ![Overview](./overview.png) |  
 
-Loan Status Table: Breakdown of Current, Fully Paid, Charged Off.
+</div>  
 
-Trends (Overview Page): By month, term, purpose, employment length, and home ownership.
+---
 
-Insights
+## 📫 Contact  
 
-📈 Seasonal trends in loan issuance identified.
+👤 **Suraj Budakoti**  
+📧 [surajbudakoti112@gmail.com](mailto:surajbudakoti112@gmail.com)  
+💼 [LinkedIn](#)  
 
-🛑 High-default categories highlighted for risk control.
+---
 
-💰 Clear view of funded vs repaid amounts.
-
-🎯 Helped focus on improving loan quality.
-
-📸 Dashboard Previews
-
-Summary Page
-
-
-Details Page
-
-
-Overview Page
-
-
-📫 Contact
-
-👤 Suraj Budakoti
-📧 surajbudakoti11@gmail.com
-
-💼 LinkedIn
+✨ *This dashboard demonstrates how data-driven insights can help banks optimize loan portfolios, minimize risks, and boost profitability.*  
