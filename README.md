@@ -69,8 +69,6 @@ Deliver an **interactive, visual report** with KPIs, trends, and risk insights.
 
 <div align="center">  
 
- 
-
 |![Summary](https://github.com/surajbudakoti11-cmd/bank-loan_analysis-/blob/main/SUMMARY.png) 
 
 
@@ -87,8 +85,8 @@ Deliver an **interactive, visual report** with KPIs, trends, and risk insights.
 ## 📫 Contact  
 
 👤 **Suraj Budakoti**  
-📧 [surajbudakoti112@gmail.com](mailto:surajbudakoti112@gmail.com)  
-💼 [LinkedIn](#)  
+📧 [surajbudakoti11@gmail.com](mailto:surajbudakoti11@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/suraj-budakoti-55a8b2379)  
 
 ---
 
